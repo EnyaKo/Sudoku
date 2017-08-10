@@ -15,11 +15,9 @@ Sudoku Game in C++
   - pic.qrc
     - pictures I used
 # UML Diagram
-<p>
-<img src="UML_diagram/Blank UML.JPG" height="500" />
+![blank_UML](UML_diagram/Blank_UML.jpg)
 
-<p>
-<img src="UML_diagram/MainWindow UML UML.JPG" height="500" />
+![MainWindow_UML](UML_diagram/MainWindow_UML.jpg)
 
 # Source code
 - data members in blank.h; 16 labels in mainwindow.ui
